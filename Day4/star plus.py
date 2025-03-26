@@ -7,4 +7,4 @@ for i in range(rows):
             print("*", end="")
         else:
             print(" ", end="")
-    print()
+    print('')
